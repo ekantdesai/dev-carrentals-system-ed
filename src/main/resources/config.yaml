@@ -1,0 +1,11 @@
+hertz:
+  host: "training4-hertz-ws.us-e2.cloudhub.io"
+  port: "80"
+  protocol: "HTTP"
+  basepath: "/"
+  
+training2021:
+  host: "national-car-rental-ws.us-e2.cloudhub.io"
+  port: "80"
+  basepath: "/"
+  protocol: "HTTP"
